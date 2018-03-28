@@ -1,1 +1,2 @@
+add_lunch_combo validus_dumpling-user
 add_lunch_combo validus_dumpling-userdebug
