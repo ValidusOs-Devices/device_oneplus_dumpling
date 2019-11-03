@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/gzosp_dumpling.mk
+    $(LOCAL_DIR)/validus_dumpling.mk
 
 COMMON_LUNCH_CHOICES := \
-    gzosp_dumpling-userdebug
+    validus_dumpling-userdebug
