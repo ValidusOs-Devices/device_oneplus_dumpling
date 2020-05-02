@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/tipsy_dumpling.mk
+    $(LOCAL_DIR)/validus_dumpling.mk
 
 COMMON_LUNCH_CHOICES := \
-    tipsy_dumpling-user \
-    tipsy_dumpling-userdebug \
-    tipsy_dumpling-eng
+    validus_dumpling-user \
+    validus_dumpling-userdebug \
+    validus_dumpling-eng
